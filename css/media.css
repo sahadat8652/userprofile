@@ -1,0 +1,206 @@
+@media (max-width: 575.98px){
+	.c_form {
+	    margin-left: 0;
+	    width: 65%;
+	}
+	.c_search_input {
+	    padding-left: 42px;
+	    padding-bottom: 5px;
+	}
+	.c_search {
+	    font-size: 23px;
+	    left: 1%;
+	    top: 20%;
+	}
+	.c_nav{
+		display: block;
+	}
+	.c_list{
+		margin-top: 8px;
+	}
+	.c_pdl {
+		 margin-left: 0 !important;
+	}
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+	.c_form {
+	    margin-left: 0;
+	    width: 40%;
+	}
+	.c_search_input {
+	    padding-left: 42px;
+	    padding-bottom: 5px;
+	}
+	.c_search {
+	    font-size: 23px;
+	    left: 1%;
+	    top: 20%;
+	}
+	.c_nav{
+		display: block;
+	}
+	.c_list{
+		margin-top: 10px;
+	}
+	.c_pdl {
+		 margin-left: 0 !important;
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+	.c_form {
+	    margin-left: 0;
+	    width: 30%;
+	}
+	.c_search_input {
+	    padding-left: 42px;
+	    padding-bottom: 5px;
+	}
+	.c_search {
+	    font-size: 23px;
+	    left: 1%;
+	    top: 19%;
+	}
+	.c_nav{
+		display: block;
+	}
+	.c_list{
+		margin-top: 12px;
+	}
+	.c_pdl {
+		 margin-left: 0 !important;
+	}
+	.profile {
+	    margin: 0px 130px 20px;
+	}
+	.p_lr {
+	    padding: 15px 16px 0;
+	}
+	.ex_tools {
+	    margin: 0 130px 20px;
+	}
+	.groups {
+	    margin: 0 130px 20px;
+	}
+	.up_area {
+	    margin: 0 130px 20px;
+	}
+	.up_func {
+	    padding: 5px 0px;
+	}
+	.list-inline-item:not(:last-child) {
+	    margin-right: 0;
+	}
+	.up_func_list li button {
+	    padding: 6px 8px;
+	}
+	.up_func_list li:last-child {
+	    margin-left: 5px;
+	}
+	.up_func_list li:last-child button {
+	    padding: 3px 7px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199.98px){
+	.c_list a{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+	}
+	.c_pdl {
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    padding-top: 0;
+	}
+	.c_brrd {
+	    width: 30px;
+	    height: 30px;
+	    margin-right: 0;
+	}
+	.dd_menu li a{
+		align-items: start;
+	}
+	.dd_menu[data-bs-popper] {
+	    left: 15px;
+	}
+	.ex_tools a {
+		 width: 83%;
+	}
+	.gym_item {
+	    padding-left: 16px;
+	}
+	.c_hash {
+	    padding: 5px 7px;
+	}
+	.g_icon {
+	    padding-right: 12px;
+	    align-items: center;
+	}
+	.g_icon h2 {
+	    font-size: 19px;
+	    padding-left: 15px;
+	    display: inline-block;
+	}
+	.up_area {
+	    padding: 25px 20px 20px;
+	}
+	.up_func {
+	    padding: 5px 0px;
+	}
+	.list-inline-item:not(:last-child) {
+	    margin-right: 0;
+	}
+	.up_func_list li button {
+	    padding: 6px 10px;
+	}
+	.up_func_list li:last-child {
+	    margin-left: 15px;
+	}
+	.up_func_list li:last-child button {
+	    padding: 3px 7px;
+	}
+	.up_post {
+	    margin-top: 20px;
+	    padding: 10px 20px 5px;
+	}
+	.post_profile h2 {
+	    font-size: 19px;
+	}
+	.c_height {
+	    height: 330px;
+	}
+	.pro_post_like li {
+	    margin-right: 0px !important;
+	    list-style: none;
+	}
+	.id_img {
+	    margin-left: 15px;
+	}
+	.id_icon button {
+	    margin-left: 13px;
+	}
+	.r_course {
+	    margin-top: 20px;
+	    padding: 0 15px;
+	}
+	.last_btn {
+	    width: 80%;
+	}
+}
+@media (min-width: 1200px) and (max-width: 1399.98px){
+	
+}
+@media (min-width: 1400px){
+	.c_search {
+	    left: 7%;
+	    top: 27%;
+	}
+	.c_list:not(:last-child) {
+	    padding-right: 15px !important;
+	}
+	.c_pdl {
+	    margin-left: 80px !important;
+	}
+	.dd_menu[data-bs-popper] {
+	    left: 80px;
+	}
+}
